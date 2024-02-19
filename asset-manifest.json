@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/resume_BA/static/css/main.411d11e6.css",
+    "main.js": "/resume_BA/static/js/main.f1e02f72.js",
+    "static/js/453.0c2848d2.chunk.js": "/resume_BA/static/js/453.0c2848d2.chunk.js",
+    "static/media/portfolio1.png": "/resume_BA/static/media/portfolio1.125fa6ea4d117ef0c4d4.png",
+    "static/media/portfolio2.png": "/resume_BA/static/media/portfolio2.54f0c2e643b9ef155792.png",
+    "static/media/CV.pdf": "/resume_BA/static/media/CV.6e532fbd5b745cdee13a.pdf",
+    "static/media/portfolio6.png": "/resume_BA/static/media/portfolio6.63472e6569459e4fede4.png",
+    "static/media/me.png": "/resume_BA/static/media/me.0e8c624fbf933e2213bb.png",
+    "static/media/me2.png": "/resume_BA/static/media/me2.af0bcc9b6e605e797f54.png",
+    "static/media/portfolio3.png": "/resume_BA/static/media/portfolio3.301d9e5e23569efe23c7.png",
+    "static/media/portfolio5.png": "/resume_BA/static/media/portfolio5.96f5028a0a6be6ebd31d.png",
+    "static/media/portfolio4.png": "/resume_BA/static/media/portfolio4.42129fd893f4c4f37764.png",
+    "static/media/portfolio8.jpg": "/resume_BA/static/media/portfolio8.e914aa4d47149d72083e.jpg",
+    "static/media/portfolio9.jpg": "/resume_BA/static/media/portfolio9.5cebca6b674f038071e1.jpg",
+    "static/media/portfolio7.jpg": "/resume_BA/static/media/portfolio7.ee5cdf0e7257c9f9131e.jpg",
+    "static/media/photo1.jpg": "/resume_BA/static/media/photo1.70d1ab534ab7835de3ef.jpg",
+    "static/media/photo2.jpg": "/resume_BA/static/media/photo2.2f483b3f41cd93692d12.jpg",
+    "index.html": "/resume_BA/index.html",
+    "main.411d11e6.css.map": "/resume_BA/static/css/main.411d11e6.css.map",
+    "main.f1e02f72.js.map": "/resume_BA/static/js/main.f1e02f72.js.map",
+    "453.0c2848d2.chunk.js.map": "/resume_BA/static/js/453.0c2848d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.411d11e6.css",
+    "static/js/main.f1e02f72.js"
+  ]
+}
