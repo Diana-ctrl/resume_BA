@@ -1,0 +1,81 @@
+header {
+  height: 100vh;
+  padding-top: 3rem;
+  overflow: hidden;
+}
+
+.header__container {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+
+/* ===============BUTTONS=============== */
+
+.but {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+}
+
+/* ===============HEADER SOCIALS=============== */
+
+.header_socials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  position: absolute;
+  left: 0;
+  bottom: 3rem;
+}
+
+.header_socials::after {
+  content: '';
+  width: 0.2rem;
+  height: 3rem;
+  background: var(--color-primary);
+}
+
+/* ===============ME=============== */
+
+.me {
+  background: linear-gradient(var(--color-primary), transparent);
+  height: 30rem;
+  position: absolute;
+  left: calc(50% - 15rem);
+  margin-top: 5rem;
+  border-radius: 8rem 0 0 0;
+  overflow: hidden;
+}
+
+/* ===============SCROLL DOWN=============== */
+
+.scrooll_down {
+  position: absolute;
+  right: -3.3rem;
+  bottom: 5rem;
+  transform: rotate(90deg);
+  font-size: 1.5rem;
+}
+
+/* ===========MEDIA QUERIES (MEDIUM DEVICES)=========== */
+
+@media screen and (max-width: 1024px) {
+  header {
+    height: 100vh;
+  }
+}
+
+/* ===========MEDIA QUERIES (SMALL DEVICES)=========== */
+
+@media screen and (max-width: 600px) {
+  header {
+    height: 100vh;
+  }
+  .header_socials,
+  .scrooll_down {
+    display: none;
+  }
+}
