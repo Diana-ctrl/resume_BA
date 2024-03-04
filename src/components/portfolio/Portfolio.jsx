@@ -1,6 +1,6 @@
 import React from "react";
 import "./portfolio.css";
-import Img1 from "../../assets/portfolio1.png";
+import Img1 from "../../assets/portfolio1.jpg";
 import Img2 from "../../assets/portfolio2.png";
 import Img3 from "../../assets/portfolio3.png";
 import Img4 from "../../assets/portfolio4.png";
@@ -9,6 +9,25 @@ import Img6 from "../../assets/portfolio6.png";
 import Img7 from "../../assets/portfolio7.jpg";
 import Img8 from "../../assets/portfolio8.jpg";
 import Img9 from "../../assets/portfolio9.jpg";
+import { Swiper, SwiperSlide } from "swiper/react";
+
+// Import Swiper styles
+import "swiper/css";
+import "swiper/css/zoom";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+
+// import required modules
+import {
+  Zoom,
+  Navigation,
+  Pagination,
+  Mousewheel,
+  Keyboard,
+} from "swiper/modules";
+
+// Import Swiper styles
+import "swiper/css";
 
 const data = [
   {
@@ -64,30 +83,31 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My resent work</h5>
+      <h5>My recent work</h5>
       <h1>Portfolio</h1>
-      <div className="container portfolio_container">
-        {data.map(({ title, demo, github, img }, index) => (
-          <article className="portfolio_item" key={index}>
-            <div className="portfolio_item-img">
-              <img src={img} alt="Img1" />
-            </div>
-            <h3>{title}</h3>
-            <div className="portfolio_item-cta">
-              {github && (
-                <a href={github} className="btn" target={"__blank"}>
-                  Github
-                </a>
-              )}
-              {demo && (
-                <a href={demo} className="btn btn-primary" target={"__blank"}>
-                  Live demo
-                </a>
-              )}
-            </div>
-          </article>
+      <h1>1. Catalog of exercises for the fitbox course</h1>
+      <h1>2. Application for storage (layout and functional requirements)</h1>
+      <h1>3. Drawing up Figma and Balsamiq layouts</h1>
+      <h1>3. Interview questionnaire</h1>
+      <Swiper
+        cssMode={true}
+        navigation={true}
+        loop={true}
+        mousewheel={true}
+        keyboard={true}
+        modules={[Navigation, Pagination, Mousewheel, Keyboard]}
+        className="mySwiper"
+        spaceBetween={100}
+        slidesPerView={1}
+        style={{ marginLeft: 10, marginRight: 10 }}
+      >
+        {data.map(({ title, img }, index) => (
+          <SwiperSlide style={{ maxWidth: 400 }}>
+            <img src={Img1} alt={`Img`} />
+            <h3>{index}</h3>
+          </SwiperSlide>
         ))}
-      </div>
+      </Swiper>
     </section>
   );
 };

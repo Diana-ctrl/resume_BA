@@ -36,7 +36,7 @@ const About = () => {
               />
               <h5>Projects</h5>
               <small>
-                5+ project was released in Google Play and App Store
+                10+ project was released in Google Play and App Store
               </small>
             </article>
           </div>
