@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume_BA/static/css/main.33631c00.css",
-    "main.js": "/resume_BA/static/js/main.8a7987e6.js",
+    "main.js": "/resume_BA/static/js/main.a45f5955.js",
     "static/js/453.4866fd09.chunk.js": "/resume_BA/static/js/453.4866fd09.chunk.js",
     "static/media/CV.pdf": "/resume_BA/static/media/CV.6e532fbd5b745cdee13a.pdf",
     "static/media/Order pizza.png": "/resume_BA/static/media/Order pizza.584e102b1a6d4afb335a.png",
@@ -12,9 +12,9 @@
     "static/media/page-0010.jpg": "/resume_BA/static/media/page-0010.0f5e36b1fab52f97f678.jpg",
     "static/media/page-0007.jpg": "/resume_BA/static/media/page-0007.28953ce1c6ac810d878f.jpg",
     "static/media/page-0012.jpg": "/resume_BA/static/media/page-0012.2b70e9ef31a777f73238.jpg",
+    "static/media/task-0005.jpg": "/resume_BA/static/media/task-0005.db6e7689eeb1d6c94b37.jpg",
     "static/media/page-0008.jpg": "/resume_BA/static/media/page-0008.d397e4acb0e8f8803846.jpg",
     "static/media/page-0004.jpg": "/resume_BA/static/media/page-0004.1346084821cb4416b1bb.jpg",
-    "static/media/task-0005.jpg": "/resume_BA/static/media/task-0005.9dc24d0c7b67eab953c0.jpg",
     "static/media/0001.jpg": "/resume_BA/static/media/0001.ebbcf1ad01537ba33337.jpg",
     "static/media/facebook_balsamiq_page-0002.jpg": "/resume_BA/static/media/facebook_balsamiq_page-0002.9fbfd22c32f79387f43a.jpg",
     "static/media/page-0005.jpg": "/resume_BA/static/media/page-0005.69f7c631545ae8888aa8.jpg",
@@ -27,6 +27,7 @@
     "static/media/Facebook_page-0003.jpg": "/resume_BA/static/media/Facebook_page-0003.b5d2fbd8361c2e0b0b4b.jpg",
     "static/media/page-0001.jpg": "/resume_BA/static/media/page-0001.f51b97fc9f9f37394014.jpg",
     "static/media/page-0002.jpg": "/resume_BA/static/media/page-0002.da96b152b52cbab24007.jpg",
+    "static/media/task-0003.jpg": "/resume_BA/static/media/task-0003.13727e683a29cf4a2453.jpg",
     "static/media/page-0014.jpg": "/resume_BA/static/media/page-0014.1040f72f1762026f8518.jpg",
     "static/media/Facebook_admin_page-0001.jpg": "/resume_BA/static/media/Facebook_admin_page-0001.abbd212183b6294ee101.jpg",
     "static/media/page-0009.jpg": "/resume_BA/static/media/page-0009.666d147ca40b93d623f4.jpg",
@@ -37,10 +38,10 @@
     "static/media/kkal_page-0003.jpg": "/resume_BA/static/media/kkal_page-0003.e3aeeb1fde49a3f9d270.jpg",
     "static/media/kkal_page-0004.jpg": "/resume_BA/static/media/kkal_page-0004.cca819761e4a3e0a712b.jpg",
     "static/media/kkal_page-0001.jpg": "/resume_BA/static/media/kkal_page-0001.3f32df11fee433a4bb84.jpg",
+    "static/media/task-0004.jpg": "/resume_BA/static/media/task-0004.dc3d18b6ca8b86230f7c.jpg",
     "static/media/page-0013.jpg": "/resume_BA/static/media/page-0013.8e60a03b27ff234ae979.jpg",
-    "static/media/task-0003.jpg": "/resume_BA/static/media/task-0003.1068f7b03613a9bb7053.jpg",
+    "static/media/task-0006.jpg": "/resume_BA/static/media/task-0006.b10a26bc471d0706b381.jpg",
     "static/media/page-0020.jpg": "/resume_BA/static/media/page-0020.559d8bfc371888a2f50a.jpg",
-    "static/media/task-0004.jpg": "/resume_BA/static/media/task-0004.d99df3927e63202c22b9.jpg",
     "static/media/page_0003.jpg": "/resume_BA/static/media/page_0003.9edd9f20f74ff9d1b6c8.jpg",
     "static/media/page-0018.jpg": "/resume_BA/static/media/page-0018.71b3783824d9f96aa047.jpg",
     "static/media/page_0005.jpg": "/resume_BA/static/media/page_0005.8b4aac7200a1c631b74c.jpg",
@@ -61,11 +62,11 @@
     "static/media/photo2.jpg": "/resume_BA/static/media/photo2.2f483b3f41cd93692d12.jpg",
     "index.html": "/resume_BA/index.html",
     "main.33631c00.css.map": "/resume_BA/static/css/main.33631c00.css.map",
-    "main.8a7987e6.js.map": "/resume_BA/static/js/main.8a7987e6.js.map",
+    "main.a45f5955.js.map": "/resume_BA/static/js/main.a45f5955.js.map",
     "453.4866fd09.chunk.js.map": "/resume_BA/static/js/453.4866fd09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33631c00.css",
-    "static/js/main.8a7987e6.js"
+    "static/js/main.a45f5955.js"
   ]
 }
