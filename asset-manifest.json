@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume_BA/static/css/main.33631c00.css",
-    "main.js": "/resume_BA/static/js/main.5ee35102.js",
+    "main.js": "/resume_BA/static/js/main.3828aab8.js",
     "static/js/453.4866fd09.chunk.js": "/resume_BA/static/js/453.4866fd09.chunk.js",
     "static/media/CV.pdf": "/resume_BA/static/media/CV.69b3ac60b9290919d09f.pdf",
     "static/media/Order pizza.png": "/resume_BA/static/media/Order pizza.584e102b1a6d4afb335a.png",
@@ -52,6 +52,7 @@
     "static/media/Продажа товара.png": "/resume_BA/static/media/Продажа товара.a1c31bbaf12917717b13.png",
     "static/media/task-0010.jpg": "/resume_BA/static/media/task-0010.51aa8dea0aacaa1a1233.jpg",
     "static/media/facebook_balsamiq_page-0001.jpg": "/resume_BA/static/media/facebook_balsamiq_page-0001.46a293fa7aebfc5c7032.jpg",
+    "static/media/Создание упражнения.png": "/resume_BA/static/media/Создание упражнения.cb270a8fe08f75bf95a6.png",
     "static/media/Facebook_admin_page-0003.jpg": "/resume_BA/static/media/Facebook_admin_page-0003.c1ef328764f206d41d87.jpg",
     "static/media/task-0006.jpg": "/resume_BA/static/media/task-0006.cb4281f4ac83121c8d1c.jpg",
     "static/media/page_0006.jpg": "/resume_BA/static/media/page_0006.6364d861d83be7dd7efe.jpg",
@@ -72,11 +73,11 @@
     "static/media/photo2.jpg": "/resume_BA/static/media/photo2.2f483b3f41cd93692d12.jpg",
     "index.html": "/resume_BA/index.html",
     "main.33631c00.css.map": "/resume_BA/static/css/main.33631c00.css.map",
-    "main.5ee35102.js.map": "/resume_BA/static/js/main.5ee35102.js.map",
+    "main.3828aab8.js.map": "/resume_BA/static/js/main.3828aab8.js.map",
     "453.4866fd09.chunk.js.map": "/resume_BA/static/js/453.4866fd09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33631c00.css",
-    "static/js/main.5ee35102.js"
+    "static/js/main.3828aab8.js"
   ]
 }
