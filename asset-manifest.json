@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/resume_BA/static/css/main.33631c00.css",
-    "main.js": "/resume_BA/static/js/main.c9ce84b9.js",
+    "main.js": "/resume_BA/static/js/main.7aad3597.js",
     "static/js/453.4866fd09.chunk.js": "/resume_BA/static/js/453.4866fd09.chunk.js",
     "static/media/CV.pdf": "/resume_BA/static/media/CV.69b3ac60b9290919d09f.pdf",
     "static/media/Order pizza.png": "/resume_BA/static/media/Order pizza.584e102b1a6d4afb335a.png",
     "static/media/task-0001.jpg": "/resume_BA/static/media/task-0001.122e6bc0216efc4701b8.jpg",
+    "static/media/Загрузка файла_BPMN.png": "/resume_BA/static/media/Загрузка файла_BPMN.9a8bbf289a1ee0d88ee8.png",
     "static/media/page-0003.jpg": "/resume_BA/static/media/page-0003.3fc6e25f6b53a33fd7a6.jpg",
-    "static/media/Загрузка файла_BPMN.png": "/resume_BA/static/media/Загрузка файла_BPMN.428b83b01e1634df4fec.png",
     "static/media/0002.jpg": "/resume_BA/static/media/0002.c06cefc92e2d093ebd0c.jpg",
     "static/media/Use case_0001.jpg": "/resume_BA/static/media/Use case_0001.be374ba0b4685d848810.jpg",
     "static/media/page-0016.jpg": "/resume_BA/static/media/page-0016.aeddffb44d0b1ae8c220.jpg",
@@ -79,11 +79,11 @@
     "static/media/photo2.jpg": "/resume_BA/static/media/photo2.2f483b3f41cd93692d12.jpg",
     "index.html": "/resume_BA/index.html",
     "main.33631c00.css.map": "/resume_BA/static/css/main.33631c00.css.map",
-    "main.c9ce84b9.js.map": "/resume_BA/static/js/main.c9ce84b9.js.map",
+    "main.7aad3597.js.map": "/resume_BA/static/js/main.7aad3597.js.map",
     "453.4866fd09.chunk.js.map": "/resume_BA/static/js/453.4866fd09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33631c00.css",
-    "static/js/main.c9ce84b9.js"
+    "static/js/main.7aad3597.js"
   ]
 }
