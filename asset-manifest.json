@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume_BA/static/css/main.33631c00.css",
-    "main.js": "/resume_BA/static/js/main.7aad3597.js",
+    "main.js": "/resume_BA/static/js/main.bebdb4d8.js",
     "static/js/453.4866fd09.chunk.js": "/resume_BA/static/js/453.4866fd09.chunk.js",
     "static/media/CV.pdf": "/resume_BA/static/media/CV.69b3ac60b9290919d09f.pdf",
     "static/media/Order pizza.png": "/resume_BA/static/media/Order pizza.584e102b1a6d4afb335a.png",
@@ -66,12 +66,12 @@
     "static/media/page-0019.jpg": "/resume_BA/static/media/page-0019.e7849a1141a7700c0dbc.jpg",
     "static/media/task-0009.jpg": "/resume_BA/static/media/task-0009.5c9451c8a7605fd30eb9.jpg",
     "static/media/page_0002.jpg": "/resume_BA/static/media/page_0002.19282b866b580a301b54.jpg",
+    "static/media/Загрузка файла.drawio.png": "/resume_BA/static/media/Загрузка файла.drawio.a341207c5846dc578b61.png",
     "static/media/BR_page-0001.jpg": "/resume_BA/static/media/BR_page-0001.eeb889371f08c1bdaafb.jpg",
     "static/media/Обработка заказа.png": "/resume_BA/static/media/Обработка заказа.5515be8b6531cfd33dd1.png",
     "static/media/task-0015.jpg": "/resume_BA/static/media/task-0015.29e199bf7a285e1e9ccf.jpg",
     "static/media/page-0021.jpg": "/resume_BA/static/media/page-0021.e10d0247ff3c957c1521.jpg",
     "static/media/task-0007.jpg": "/resume_BA/static/media/task-0007.1b733a6d1fbd1f60c38d.jpg",
-    "static/media/Загрузка файла.jpg": "/resume_BA/static/media/Загрузка файла.68d6a391ebdb8145a998.jpg",
     "static/media/task-0002.jpg": "/resume_BA/static/media/task-0002.53316a068c9bc1ad0cc8.jpg",
     "static/media/page_0001.jpg": "/resume_BA/static/media/page_0001.a9ba5797bc3215b8a09e.jpg",
     "static/media/task-0016.jpg": "/resume_BA/static/media/task-0016.73565f9b27356b1037e9.jpg",
@@ -79,11 +79,11 @@
     "static/media/photo2.jpg": "/resume_BA/static/media/photo2.2f483b3f41cd93692d12.jpg",
     "index.html": "/resume_BA/index.html",
     "main.33631c00.css.map": "/resume_BA/static/css/main.33631c00.css.map",
-    "main.7aad3597.js.map": "/resume_BA/static/js/main.7aad3597.js.map",
+    "main.bebdb4d8.js.map": "/resume_BA/static/js/main.bebdb4d8.js.map",
     "453.4866fd09.chunk.js.map": "/resume_BA/static/js/453.4866fd09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33631c00.css",
-    "static/js/main.7aad3597.js"
+    "static/js/main.bebdb4d8.js"
   ]
 }
