@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/resume_BA/static/css/main.33631c00.css",
-    "main.js": "/resume_BA/static/js/main.8b4790cd.js",
+    "main.css": "/resume_BA/static/css/main.ab47ab1b.css",
+    "main.js": "/resume_BA/static/js/main.9486336e.js",
     "static/js/453.4866fd09.chunk.js": "/resume_BA/static/js/453.4866fd09.chunk.js",
     "static/media/CV.pdf": "/resume_BA/static/media/CV.1382c875b066ae096dc2.pdf",
     "static/media/Order pizza.png": "/resume_BA/static/media/Order pizza.584e102b1a6d4afb335a.png",
@@ -78,12 +78,12 @@
     "static/media/photo1.jpg": "/resume_BA/static/media/photo1.70d1ab534ab7835de3ef.jpg",
     "static/media/photo2.jpg": "/resume_BA/static/media/photo2.2f483b3f41cd93692d12.jpg",
     "index.html": "/resume_BA/index.html",
-    "main.33631c00.css.map": "/resume_BA/static/css/main.33631c00.css.map",
-    "main.8b4790cd.js.map": "/resume_BA/static/js/main.8b4790cd.js.map",
+    "main.ab47ab1b.css.map": "/resume_BA/static/css/main.ab47ab1b.css.map",
+    "main.9486336e.js.map": "/resume_BA/static/js/main.9486336e.js.map",
     "453.4866fd09.chunk.js.map": "/resume_BA/static/js/453.4866fd09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33631c00.css",
-    "static/js/main.8b4790cd.js"
+    "static/css/main.ab47ab1b.css",
+    "static/js/main.9486336e.js"
   ]
 }
